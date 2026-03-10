@@ -121,7 +121,7 @@ model_data:
   omim: "${GAMMA_HOME}/sunshufeng/gamma_v4/data/OMIM_processed.csv"
   clinvar: "${GAMMA_HOME}/sunshufeng/gamma_v4/data/clinvar.csv"
   mgi: "${GAMMA_HOME}/sunshufeng/gamma_v4/data/MGI_processed2.csv"
-  gene_features: "${GAMMA_HOME}/sunshufeng/gamma_v4/0.0.3_gene_features.csv"
+  gene_features: "${GAMMA_HOME}/sunshufeng/gamma_v7/0.0.3_gene_features.csv"
   uniprot: "${GAMMA_HOME}/sunshufeng/gamma_v7/0.0.5_uniprot_protein_family.csv"
 model_model:
   model: "${GAMMA_HOME}/sunshufeng/gamma_v7/0.0.1_model.pth"
